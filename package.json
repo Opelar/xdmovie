@@ -1,0 +1,30 @@
+{
+  "name": "xdmovie",
+  "version": "1.0.0",
+  "description": "movie",
+  "main": "app.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.16.3",
+    "superagent": "^3.8.3",
+    "superagent-charset": "^1.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Opelar/xdmovie.git"
+  },
+  "keywords": [
+    "node",
+    "movie"
+  ],
+  "author": "opelar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Opelar/xdmovie/issues"
+  },
+  "homepage": "https://github.com/Opelar/xdmovie#readme"
+}
